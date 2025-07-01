@@ -1,2 +1,2 @@
 # freerechargephisher
-: https://mrmanojbhatta.github.io/freerechargephisher/
+https://mrmanojbhatta.github.io/freerechargephisher/
